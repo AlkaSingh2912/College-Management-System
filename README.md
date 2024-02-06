@@ -6,10 +6,10 @@ The user can also easily upgrade semester records of selected students. It also 
 
 Features:
 
-1).Login/Register system
-2).Admissions
-Upgrade semester
-Manage Fees
-Search student’s record
-Add teachers
+Login/Register system, 
+Admissions,
+Upgrade semester,
+Manage Fees,
+Search student’s record,
+Add teachers,
 Remove students
